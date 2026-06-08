@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aadhi D
 
-### Computer Science Engineering Student | Java Developer | Spring Boot Developer
+### Java & Python Developer | Backend Development | AI & Cybersecurity Enthusiast
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=aadhidurai2006@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
