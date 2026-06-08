@@ -24,7 +24,7 @@
 
 ## 💫 About Me
 
-Computer Science Engineering student passionate about backend development, AI-powered applications, and scalable software systems. Experienced in building full-stack projects using Java, Spring Boot, Python, Flask, MySQL, and modern web technologies.
+I'm a Computer Science Engineering student who enjoys turning ideas into real software projects. My interests span Backend Development, Artificial Intelligence, Data Analytics, Cybersecurity, and Networking. I enjoy learning new technologies, building practical applications, and continuously improving my problem-solving and development skills.
 
 ---
 
@@ -103,7 +103,6 @@ Computer Science Engineering student passionate about backend development, AI-po
 ---
 
 ## 📊 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=CodeX-ByAadhi&theme=tokyonight&show_icons=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeX-ByAadhi&theme=tokyonight&layout=compact)
