@@ -3,7 +3,7 @@
 ### Computer Science Engineering Student | Java Developer | Spring Boot Developer
 
 <p align="left">
-<a href="mailto:innocentboy9772@gmail.com">
+<a href="mailto:aadhidurai2006@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
